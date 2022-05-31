@@ -28,4 +28,14 @@ Other useful commands to see what is going on the git repository:
 
 ## Practice Output 
 1. Your repo url in Github
+
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+   
+
+git add . 将当前目录下修改的所有代码从工作区添加到暂存区 . 代表当前目录
+
+git commit -m ‘注释’ 将缓存区内容添加到本地仓库
+
+git push origin master 将本地版本库推送到远程服务器，
+
